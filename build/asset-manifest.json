@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "gelvezz23.github.io/prueba/static/css/main.2ef6ebb7.chunk.css",
+    "main.js": "gelvezz23.github.io/prueba/static/js/main.f059be23.chunk.js",
+    "main.js.map": "gelvezz23.github.io/prueba/static/js/main.f059be23.chunk.js.map",
+    "runtime-main.js": "gelvezz23.github.io/prueba/static/js/runtime-main.7d0d93d9.js",
+    "runtime-main.js.map": "gelvezz23.github.io/prueba/static/js/runtime-main.7d0d93d9.js.map",
+    "static/js/2.1af763b5.chunk.js": "gelvezz23.github.io/prueba/static/js/2.1af763b5.chunk.js",
+    "static/js/2.1af763b5.chunk.js.map": "gelvezz23.github.io/prueba/static/js/2.1af763b5.chunk.js.map",
+    "index.html": "gelvezz23.github.io/prueba/index.html",
+    "precache-manifest.58f8e3820653753818c6d557711fe98d.js": "gelvezz23.github.io/prueba/precache-manifest.58f8e3820653753818c6d557711fe98d.js",
+    "service-worker.js": "gelvezz23.github.io/prueba/service-worker.js",
+    "static/css/main.2ef6ebb7.chunk.css.map": "gelvezz23.github.io/prueba/static/css/main.2ef6ebb7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d0d93d9.js",
+    "static/js/2.1af763b5.chunk.js",
+    "static/css/main.2ef6ebb7.chunk.css",
+    "static/js/main.f059be23.chunk.js"
+  ]
+}
